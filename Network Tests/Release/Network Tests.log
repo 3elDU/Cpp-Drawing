@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\progs\visualc++\network tests\network tests\main.cpp(150): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\progs\visualc++\network tests\network tests\main.cpp(152): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\progs\visualc++\network tests\network tests\main.cpp(159): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\progs\visualc++\network tests\network tests\main.cpp(164): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\progs\visualc++\network tests\network tests\main.cpp(166): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\progs\visualc++\network tests\network tests\main.cpp(173): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\progs\visualc++\network tests\network tests\main.cpp(182): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\progs\visualc++\network tests\network tests\main.cpp(192): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  All 141 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Network Tests.vcxproj -> C:\Progs\VisualC++\Network Tests\Release\Network Tests.exe
